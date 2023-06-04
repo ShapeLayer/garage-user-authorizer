@@ -1,0 +1,9 @@
+{
+  "DIR__DATA_ROOT": "data",
+  "DIR__DATA_USERSTATIC": "data/userstatic",
+  "DIR__DATA_DB": "data/database",
+  "PRESET__DEMO": "gua/includes/presets/demo",
+  "UPLOAD__PIC_ALLOWED_EXTENSIONS": ["txt", "pdf", "png", "jpg", "jpeg", "gif"],
+  "FILE__SQLITE": "db.db",
+  "SECRET_KEY": "dev"
+}

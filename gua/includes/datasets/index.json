@@ -1,0 +1,13 @@
+{
+  "current": "demo",
+  "demo": {
+    "zip": "demo.zip",
+    "unzip": "demo",
+    "struct_index_included": false,
+    "struct": {
+      "train": true,
+      "test": false,
+      "val": true
+    }
+  }
+}

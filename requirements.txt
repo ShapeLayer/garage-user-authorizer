@@ -1,0 +1,11 @@
+flask
+tensorflow
+mtcnn
+Pillow
+numpy
+opencv-python
+# matplotlib
+scikit-learn
+keras-facenet
+pickle5
+joblib

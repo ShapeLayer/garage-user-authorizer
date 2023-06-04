@@ -1,0 +1,4 @@
+ * Unzip demo.zip to use example dataset
+
+index.json
+if `struct_index_iuncluded` is `false`, `struct` must be defined.

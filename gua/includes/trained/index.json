@@ -1,0 +1,11 @@
+{
+  "current": "demo",
+  "demo": {
+    "classifier": {
+      "path": "demo_classifier.pk1"
+    },
+    "labeler": {
+      "path": "demo_labeler.pk1"
+    }
+  }
+}

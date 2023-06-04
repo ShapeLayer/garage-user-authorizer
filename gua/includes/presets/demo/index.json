@@ -1,0 +1,19 @@
+{
+  "STRUCTURE": {
+    "source": "SOURCE_FILE_PATH",
+    "dir": "DEST_DIR",
+    "filename": "NEW_FILENAME"
+  },
+  "files": [
+    {
+      "source": "jonghyeon_profile.jpeg",
+      "dir": "data/userstatic",
+      "filename": "1fe97842-7ad5-4f02-873e-c3fd47430144.jpeg"
+    },
+    {
+      "source": "sehyeon_profile.jpg",
+      "dir": "data/userstatic",
+      "filename": "ce470f9b-c58c-43d0-b50c-7bfd75ae2596.jpg"
+    }
+  ]
+}

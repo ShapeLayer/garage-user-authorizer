@@ -1,0 +1,29 @@
+@import url('SUIT-variable.css');
+
+body {
+  background-color: var(--fds-solid-background-base);
+  color: var(--fds-text-primary);
+  font-family: 'SUIT Variable', var(--fds-font-family-text);
+  font-size: var(--fds-body-font-size);
+  font-weight: 400;
+  height: 100vh;
+  line-height: 20px;
+  margin: 0;
+  padding: 0;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  /* Codefactor suggestion
+  -webkit-user-select: revert;
+  -moz-user-select: revert;
+  -ms-user-select: revert;
+  */
+  user-select: revert;
+}
+div.app {
+  height: 100vh;
+}
+p {
+  line-height: 1.6;
+}
